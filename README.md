@@ -1,7 +1,7 @@
 # Friendly-json
 
-HOW TO RUN:
+# HOW TO RUN:
 python3 jsontree.py <path-of-jsonfile>
 
-Requirment:
+# Requirment:
 install rich module

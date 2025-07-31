@@ -1,0 +1,9 @@
+{
+  "user": {
+    "name": "Ali",
+    "age": 30,
+    "hobbies": ["reading", "coding"]
+  },
+  "is_active": true
+}
+
